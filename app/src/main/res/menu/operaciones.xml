@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itlineas"
+        android:title="Lineas">
+    </item>
+    <item
+        android:id="@+id/itOndas"
+        android:title="Ondas">
+    </item>
+    <item
+        android:id="@+id/itTranslado"
+        android:title="Translado">
+    </item>
+    <item
+        android:id="@+id/itPuntero"
+        android:title="Puntero">
+    </item>
+    <item
+        android:id="@+id/itAnimacion"
+        android:title="Animación">
+    </item>
+
+</menu>
